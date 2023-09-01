@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **React,MERN**
 
-- 📫 How to reach me **minraz123@gmail.com**
+- 📫 How to reach me **minrazbasnet123@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
